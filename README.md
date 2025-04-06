@@ -1,24 +1,24 @@
 # Movie Recommendation System using Collaborative Filtering 
 
-## 📌 Overview  
+## Overview  
 This project implements a **collaborative filtering-based recommender system** using **TensorFlow and NumPy**. It predicts movie ratings based on user preferences and generates personalized movie recommendations.  
 
 The system is trained on the **MovieLens dataset**, using a **matrix factorization approach** to learn latent features for both users and movies.  
 
-## 🚀 Features  
+## Features  
 - ✅ **Collaborative Filtering** – Learns user and movie feature vectors from existing ratings.  
 - ✅ **Gradient Descent Optimization** – Uses **Adam optimizer** for efficient learning.  
 - ✅ **Mean Normalization** – Handles missing ratings and improves predictions for new users.  
 - ✅ **Vectorized Implementation** – Speeds up training using optimized matrix operations.  
 - ✅ **Movie Recommendations** – Predicts top movie suggestions for users.  
 
-## 📚 Dataset  
+## Dataset  
 The project uses a **filtered version** of the [MovieLens dataset](https://grouplens.org/datasets/movielens/).  
-- 🎥 **Movies**: Over **4,778** titles.  
-- 👤 **Users**: **443** users with different rating preferences.  
-- ⭐ **Ratings**: From **0.5 to 5** in increments of **0.5**.  
+- **Movies**: Over **4,778** titles.  
+- **Users**: **443** users with different rating preferences.  
+- **Ratings**: From **0.5 to 5** in increments of **0.5**.  
 
-## ⚙️ How It Works  
+## How It Works  
 1. **Load the MovieLens dataset** – Movie ratings and user interactions.  
 2. **Preprocess Data** – Normalize ratings and set up feature matrices.  
 3. **Collaborative Filtering Algorithm** – Train the system using:  
@@ -29,7 +29,7 @@ The project uses a **filtered version** of the [MovieLens dataset](https://group
 5. **Generate Predictions** – Compute expected ratings for unrated movies.  
 6. **Recommend Movies** – Suggest top-rated movies for users.  
 
-## 🛠 Installation  
+## Installation  
 ### **Prerequisites**  
 Make sure you have **Python 3.8+** and the necessary dependencies installed.  
 
@@ -38,7 +38,7 @@ Make sure you have **Python 3.8+** and the necessary dependencies installed.
 2. Navigate to the project directory.  
 3. Run the training script to generate recommendations.  
 
-## 📊 Example Output  
+## Example Output  
 ### **Predicted Top Recommendations**  
 Predicting rating 4.49 for movie My Sassy Girl (2001)  
 Predicting rating 4.48 for movie Memento (2000)  
@@ -49,7 +49,7 @@ Original: 5.0 | Predicted: 4.90 | Shrek (2001)
 Original: 3.0 | Predicted: 3.00 | Inception (2010)  
 Original: 1.0 | Predicted: 1.26 | Nothing to Declare (2010)  
 
-## 📚 Project Structure  
+## Project Structure  
 - **data/**: MovieLens dataset  
 - **models/**: Trained models  
 - **notebooks/**: Jupyter notebooks for analysis  
@@ -59,14 +59,14 @@ Original: 1.0 | Predicted: 1.26 | Nothing to Declare (2010)
   - recommend.py: Generate recommendations  
 - **README.md**: Project documentation  
 
-## 📚 References  
+## References  
 - **MovieLens Dataset** – [F. Maxwell Harper & Joseph A. Konstan (2015)](https://doi.org/10.1145/2827872)  
 - **Deep Learning Recommender Systems** – Various research papers  
 
-## 🤝 Contributing  
+## Contributing  
 Feel free to submit **issues** or **pull requests**. Contributions are welcome!  
 
-## 📚 License  
+## License  
 This project is licensed under the **MIT License**.  
 
 
