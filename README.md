@@ -1,4 +1,16 @@
+# Movie Recommendation System using Collaborative Filtering 
 
+  ## Overview  
+This project implements a **collaborative filtering-based recommender system** using **TensorFlow and NumPy**. It predicts movie ratings based on user preferences and generates personalized movie recommendations.
+
+The system is trained on the **MovieLens dataset**, using a **matrix factorization approach** to learn latent features for both users and movies.  
+
+## Features  
+- ✅ **Collaborative Filtering** – Learns user and movie feature vectors from existing ratings.  
+- ✅ **Gradient Descent Optimization** – Uses **Adam optimizer** for efficient learning.  
+- ✅ **Mean Normalization** – Handles missing ratings and improves predictions for new users.  
+- ✅ **Vectorized Implementation** – Speeds up training using optimized matrix operations.  
+- ✅ **Movie Recommendations** – Predicts top movie suggestions for users.  
 
 ## Dataset  
 The project uses a **filtered version** of the [MovieLens dataset](https://grouplens.org/datasets/movielens/).  
