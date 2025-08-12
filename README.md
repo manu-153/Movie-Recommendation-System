@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System – Collaborative Filtering Approac
+# 🎬 Movie Recommendation System – Collaborative Filtering Approach
 
 
 ## 📌 Overview
