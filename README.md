@@ -1,12 +1,11 @@
-# 🎬 Movie Recommendation System – Collaborative Filtering Approach
 
-
+# 🎬 Movie Recommendation System – Collaborative Filtering
 
 ## 📌 Overview
 
-This project implements a **collaborative filtering-based movie recommender system** using **TensorFlow** and **NumPy**. It predicts user ratings for movies by learning from historical interactions and generates **personalized movie suggestions**.
+This project develops a **movie recommender system** using a **collaborative filtering approach** powered by **TensorFlow** and **NumPy**. By analyzing past user–movie interactions, it predicts ratings and provides **personalized recommendations**.
 
-Built on a subset of the **MovieLens dataset**, the system applies **matrix factorization** to uncover latent relationships between users and movies.
+Leveraging a subset of the **MovieLens dataset**, the system employs **matrix factorization** to identify hidden patterns and relationships between users and movies.
 
 ---
 
