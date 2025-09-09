@@ -1,5 +1,5 @@
 
-# 🎬 Movie Recommendation System – Collaborative Filtering
+# Movie Recommendation System – Collaborative Filtering
 
 ## 📌 Overview
 
