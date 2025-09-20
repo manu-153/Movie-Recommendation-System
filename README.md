@@ -9,7 +9,7 @@ Leveraging a subset of the **MovieLens dataset**, the system employs **matrix fa
 
 ---
 
-## 🚀 Key Features
+
 
 * ✅ **Collaborative Filtering Algorithm** – Learns compact latent representations (embeddings) for users and movies.
 * ✅ **Efficient Training with Adam Optimizer** – Leverages adaptive learning rates for faster convergence.
