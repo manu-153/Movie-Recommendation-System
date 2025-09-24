@@ -19,15 +19,12 @@ Leveraging a subset of the **MovieLens dataset**, the system employs **matrix fa
 
 ---
 
-## 📊 Dataset Information
+📊 Dataset Overview
+Our model utilizes a refined version of the MovieLens dataset, a popular benchmark in the field of recommender systems. Key statistics include:
 
-The model is trained on a cleaned version of the [MovieLens dataset](https://grouplens.org/datasets/movielens/), a widely used benchmark for recommender systems.
-
-* 🎞️ **Movies**: 4,778 unique titles
-* 👥 **Users**: 443 distinct users
-* 🌟 **Ratings**: Floating point scores from **0.5 to 5.0** (in steps of 0.5)
-
----
+* 🎞️ Movie Count: 4,778 distinct movie titles
+* 👥 User Base: 443 unique users
+* 🌟 Rating Scale: Ratings range from 0.5 to 5.0, with increments of 0.5.
 
 ## ⚙️ System Workflow
 
