@@ -1,7 +1,7 @@
 
-# Movie Recommendation System – Collaborative Filtering
+# Movie Recommendation System 
 
-## 📌 Overview
+## 📌 project Overview
 
 This project develops a **movie recommender system** using a **collaborative filtering approach** powered by **TensorFlow** and **NumPy**. By analyzing past user–movie interactions, it predicts ratings and provides **personalized recommendations**.
 
