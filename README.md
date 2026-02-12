@@ -1,7 +1,7 @@
 
 # Movie Recommendation System 
 
-## 📌 project Overview
+## project Overview
 
 This project develops a **movie recommender system** using a **collaborative filtering approach** powered by **TensorFlow** and **NumPy**. By analyzing past user–movie interactions, it predicts ratings and provides **personalized recommendations**.
 
@@ -18,13 +18,12 @@ Leveraging a subset of the **MovieLens dataset**, the system employs **matrix fa
 * ✅ **Personalized Movie Suggestions** – Delivers top unseen movie recommendations tailored to each user.
 
 ---
-
-📊 Dataset Overview
+ Dataset Overview
 Our model utilizes a refined version of the MovieLens dataset, a popular benchmark in the field of recommender systems. Key statistics include:
 
-* 🎞️ Movie Count: 4,778 distinct movie titles
-* 👥 User Base: 443 unique users
-* 🌟 Rating Scale: Ratings range from 0.5 to 5.0, with increments of 0.5.
+*  Movie Count: 4,778 distinct movie titles
+*  User Base: 443 unique users
+*  Rating Scale: Ratings range from 0.5 to 5.0, with increments of 0.5.
 
 ## ⚙️ System Workflow
 
@@ -56,9 +55,9 @@ Our model utilizes a refined version of the MovieLens dataset, a popular benchma
 
 ---
 
-## 🛠️ Setup and Installation
+## Setup and Installation
 
-### 🔧 Prerequisites
+### Prerequisites
 
 Make sure the following are installed:
 
