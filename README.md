@@ -25,7 +25,7 @@ Our model utilizes a refined version of the MovieLens dataset, a popular benchma
 *  User Base: 443 unique users
 *  Rating Scale: Ratings range from 0.5 to 5.0, with increments of 0.5.
 
-## ⚙️ System Workflow
+## System Workflow
 
 1. **Data Loading**
 
@@ -66,14 +66,14 @@ Make sure the following are installed:
 * NumPy
 * Pandas
 
-### 📥 Clone This Repository
+### Clone This Repository
 
 ```bash
 git clone https://github.com/yourusername/movie-recommender.git
 cd movie-recommender
 ```
 
-### 📁 Project Structure
+### Project Structure
 
 ```
 movie-recommender/
@@ -90,7 +90,7 @@ movie-recommender/
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 * 🎯 Incorporate content-based filtering for hybrid recommendations
 * 🔍 Add support for implicit feedback (e.g., views, clicks)
@@ -99,7 +99,7 @@ movie-recommender/
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Feel free to open issues or pull requests if you'd like to improve or extend the project!
 
