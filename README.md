@@ -1,7 +1,7 @@
 
 # Movie Recommendation System 
 
-## project Overview
+## Project Overview
 
 This project develops a **movie recommender system** using a **collaborative filtering approach** powered by **TensorFlow** and **NumPy**. By analyzing past user–movie interactions, it predicts ratings and provides **personalized recommendations**.
 
@@ -92,10 +92,10 @@ movie-recommender/
 
 ## Future Enhancements
 
-* 🎯 Incorporate content-based filtering for hybrid recommendations
-* 🔍 Add support for implicit feedback (e.g., views, clicks)
-* 📦 Deploy as a REST API or interactive web app
-* 📊 Add model evaluation metrics (RMSE, Precision\@K)
+*  Incorporate content-based filtering for hybrid recommendations
+*  Add support for implicit feedback (e.g., views, clicks)
+*  Deploy as a REST API or interactive web app
+*  Add model evaluation metrics (RMSE, Precision\@K)
 
 ---
 
