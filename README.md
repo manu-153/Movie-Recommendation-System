@@ -11,11 +11,11 @@ Leveraging a subset of the **MovieLens dataset**, the system employs **matrix fa
 
 ## Key features
 
-* ✅ **Collaborative Filtering Algorithm** – Learns compact latent representations (embeddings) for users and movies.
-* ✅ **Efficient Training with Adam Optimizer** – Leverages adaptive learning rates for faster convergence.
-* ✅ **Mean Normalization** – Enhances performance for users with sparse rating histories.
-* ✅ **Optimized with Vectorized Computations** – Ensures efficient large-scale matrix operations.
-* ✅ **Personalized Movie Suggestions** – Delivers top unseen movie recommendations tailored to each user.
+*  **Collaborative Filtering Algorithm** – Learns compact latent representations (embeddings) for users and movies.
+*  **Efficient Training with Adam Optimizer** – Leverages adaptive learning rates for faster convergence.
+*  **Mean Normalization** – Enhances performance for users with sparse rating histories.
+*  **Optimized with Vectorized Computations** – Ensures efficient large-scale matrix operations.
+*  **Personalized Movie Suggestions** – Delivers top unseen movie recommendations tailored to each user.
 
 ---
  Dataset Overview
